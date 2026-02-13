@@ -97,6 +97,6 @@
   </a>
 </p>
 
-<h3 align="left">GigHub Stats</h3>
+<h3 align="left">GigHub Stats and Dev Activity</h3>
 ![Machete's GitHub stats](https://github-readme-stats.vercel.app/api?username=machetez5&show_icons=true&theme=dark)
 
