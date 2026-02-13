@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/josé-alejandro-montenegro-monzón" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josé-alejandro-montenegro-monzón" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Technology Tools:</h3>
+<h3 align="left">Languages and Technology Tools</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -97,6 +97,6 @@
   </a>
 </p>
 
-<h3 align="left">GigHub Stats:</h3>
-![MacheteZ5's GitHub stats](https://github-readme-stats.vercel.app/api?username=machetez5&show_icons=true&theme=radical)
+<h3 align="left">GigHub Stats</h3>
+![Machete's GitHub stats](https://github-readme-stats.vercel.app/api?username=machetez5&show_icons=true&theme=dark)
 
